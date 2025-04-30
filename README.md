@@ -34,9 +34,6 @@ To run the code, ensure you have the following libraries installed:
 ## Contribution
 Contributions to this project are welcome. If you have any suggestions, improvements, or bug fixes, feel free to open an issue or submit a pull request.
 
-## Author
-The project MRI Brain Tumor Diagnosis system is developed by [Akshit Srivastava](https://github.com/restlesshornet). You can contact the author at [akshit0405@gmail.com](https://gmail.com/)
-
 ## References
 1. [Kaggle](https://www.kaggle.com/datasets/masoudnickparvar/brain-tumor-mri-dataset): Used for accessing and exploring the brain tumor dataset.
 2. [SIIM-PCR-Pneumothorax-segmentation](https://github.com/NamrataThakur/SIIM-PCR-Pneumothorax-Segmentation), 
